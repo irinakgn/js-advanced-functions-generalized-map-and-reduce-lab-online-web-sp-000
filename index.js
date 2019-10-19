@@ -49,7 +49,7 @@ function mapToSquare(src) {
 
 
 function map(mapToNegativize, mapToDouble, mapToNoChange, mapToSquare) {
-  
+
 })
 
 //function function map(a, b, c, d, scr){
